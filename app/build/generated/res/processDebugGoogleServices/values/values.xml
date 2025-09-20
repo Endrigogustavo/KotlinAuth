@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">621816495326</string>
+    <string name="google_api_key" translatable="false">AIzaSyDy_2q0RuMz_SO4JoHj5ooL0SBUGMfZTFc</string>
+    <string name="google_app_id" translatable="false">1:621816495326:android:b7a76bd6d77f0ec8b6164f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDy_2q0RuMz_SO4JoHj5ooL0SBUGMfZTFc</string>
+    <string name="google_storage_bucket" translatable="false">fatec-4b63c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fatec-4b63c</string>
+</resources>

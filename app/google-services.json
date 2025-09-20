@@ -1,0 +1,49 @@
+/*key de teste pc nickolas*/
+{
+  "project_info": {
+    "project_number": "621816495326",
+    "project_id": "fatec-4b63c",
+    "storage_bucket": "fatec-4b63c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621816495326:android:2fbff5c13a8e2b55b6164f",
+        "android_client_info": {
+          "package_name": "com.hakuji.app_tapweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_2q0RuMz_SO4JoHj5ooL0SBUGMfZTFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621816495326:android:b7a76bd6d77f0ec8b6164f",
+        "android_client_info": {
+          "package_name": "com.hakuji.aula_tapweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_2q0RuMz_SO4JoHj5ooL0SBUGMfZTFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
